@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://kshitijbhat.github.io/sitemap.xml
