@@ -182,6 +182,54 @@
               <p>NeRF works better than RGB-D cameras or multi-view stereo when learning object descriptors.</p>
             </td>
           </tr> -->	
+
+          <tr onmouseout="drona_stop()" onmouseover="drona_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='drona_image'><video  width=100% height=100% muted autoplay loop>
+                <source src="images/drona_video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
+                <img src='images/drona_img.png' width="160">
+              </div>
+              <script type="text/javascript">
+                function drona_start() {
+                  document.getElementById('drona_image').style.opacity = "1";
+                }
+
+                function drona_stop() {
+                  document.getElementById('drona_image').style.opacity = "0";
+                }
+                drona_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="">
+                <papertitle>Pluto Drone Swarm Challenge: Bronze Medal</papertitle>
+              </a>
+              <!-- <p>
+                Smartphone-based Autonomous Driving Module
+              </p> -->
+              <br>
+              <strong>Kshitij M. Bhat</strong>,
+              <a href="">Yeeshukant Singh</a>, 
+              <a href="">Harsh Bardhan</a>, 
+              <a href="">Sairaj Loke</a>, 
+              <a href="">Rohan Jha</a>, 
+              <a href="">Karandevsinh Khuman</a>
+              <a href="">Akshit Raizada</a>
+              <a href="">Omkar Shirgaonkar</a>
+              <a href="">Shivankar Sharma</a>
+              <a href="">Abhishek Nair</a>
+              <br>
+              <em>11th Inter-IIT Tech Meet</em>, 2023
+              <br>
+              <p></p>
+              <p>
+A PID Control-based framework for formation control of multiple Micro Aerial Vehicles (MAVs).
+              </p>
+            </td>
+          </tr>
           
           <tr onmouseout="drishti_stop()" onmouseover="drishti_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -226,6 +274,8 @@ A smartphone-based drive-by-wire module for level-2 autonomous driving on 6-seat
               </p>
             </td>
           </tr>		
+
+
 
 			    <!-- <tr onmouseout="refnerf_stop()" onmouseover="refnerf_start()"  bgcolor="#ffffd0">
 			      <td style="padding:20px;width:25%;vertical-align:middle">
@@ -552,14 +602,25 @@ A smartphone-based drive-by-wire module for level-2 autonomous driving on 6-seat
         <table width="100%" align="center" border="0" cellpadding="20"><tbody>
 					
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/IVDC_Logo.png" width="160"></td>
+            <td style="padding:40px;width:25%;vertical-align:middle"><img src="images/IVDC_Logo.png" width="120"></td>
             <td width="75%" valign="center">
               <strong>Vice President</strong>
-              <p></p>
-              <a href="https://github.com/IVDC-Club-IIT-Indore">Intelligent Vehicle Design and Control (IVDC) Club</p>
               <br>
+              <a href="https://github.com/IVDC-Club-IIT-Indore">Intelligent Vehicle Design and Control (IVDC) Club</a>
+              <p>Organizer, Top Gear, Fluxus 11.0, IIT Indore</p>
+              <p>Mentor, IIT Indore Summer of Code</p>
             </td>
-          </tr>				
+          </tr>
+          
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/SnT.png" width="160"></td>
+            <td width="75%" valign="center">
+              <a href="">Science and Technology Council, IIT Indore</a>
+              <p>Treasurer and Council Member</p>
+              <p>Tinkerer's Lab Design Committee Member</p>
+            </td>
+          </tr>
+          
         </tbody></table>
       </td>
     </tr>
