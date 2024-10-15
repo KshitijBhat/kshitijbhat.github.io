@@ -1,7 +1,5 @@
-Kshitij M. Bhat is a pre-final year undergraduate at Indian Institute of Technology (IIT) Indore,
-majoring in Mechanical Engineering. He was a summer research intern at Ati Motors, an
-Autonomous Mobile Robot (AMR) manufacturing startup in Bangalore, India.
-He recieved the DRISHTI-CPS CHANAKYA Fellowship in 2021 for the development of a smartphone-based 
-autonomous driving module. He was also awarded the prestigious KVPY Fellowship in 2019 by the 
-Department of Science and Technology, Government of India, initiated to attract exceptionally 
-highly motivated students for pursuing a research career in science. 
+Kshitij Madhav Bhat is a graduate student majoring in Robotic Systems Development at the Robotic Institute, School of Computer Science at CMU. 
+He received his bachelor's degree from the Indian Institute of Technology, Indore in 2024. Prior to joining CMU, he has gained valuable research 
+experience as an intern at IIT Delhi, and Lakehead University. His undergraduate research on deep learning for LiDAR data for autonomous vehicles 
+has been published in leading computer vision conferences such as CVPR 2024 and ICIP (workshop) 2024. Through rigorous coursework at CMU and his 
+undergraduate research, he has gained expertise in computer vision, perception and control for robotics and autonomous vehicles.
