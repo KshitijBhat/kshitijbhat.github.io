@@ -1,5 +1,0 @@
-Kshitij Madhav Bhat is a graduate student majoring in Robotic Systems Development at the Robotic Institute, School of Computer Science at CMU. 
-He received his bachelor's degree from the Indian Institute of Technology, Indore in 2024. Prior to joining CMU, he has gained valuable research 
-experience as an intern at IIT Delhi, and Lakehead University. His undergraduate research on deep learning for LiDAR data for autonomous vehicles 
-has been published in leading computer vision conferences such as CVPR 2024 and ICIP (workshop) 2024. Through rigorous coursework at CMU and his 
-undergraduate research, he has gained expertise in computer vision, perception and control for robotics and autonomous vehicles.
