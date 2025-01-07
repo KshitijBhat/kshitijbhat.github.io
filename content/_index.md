@@ -65,17 +65,17 @@ sections:
               •  Shaped a post-processing routine for raw point cloud and IMU data in Rosbags for easy integration and validation of state-of-the-art 3D-LiDAR-based SLAM algorithms on real-world datasets of warehouses and shop floors.
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+  # - block: collection
+  #   content:
+  #     title: Projects
+  #     text: 
+  #     filters:
+  #       folders:
+  #         - project
+  #   design:
+  #     view: article-grid
+  #     fill_image: false
+  #     columns: 3
   - block: collection
     id: featured-publications
     content:
