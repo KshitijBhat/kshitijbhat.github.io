@@ -81,8 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-I'm a first year MS student at the Robotics Institute at Carnegie Mellon University. 
+I'm a first-year MS student in Robotic Systems Development at the Robotics Institute, Carnegie Mellon University. 
 
-I can be reached at kmadhavb[at]cs[dot]cmu[dot]edu.
+I can be reached at kmadhavb@cs.cmu.edu
 
 {style="text-align: justify;"}

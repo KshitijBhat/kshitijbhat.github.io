@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern under Dr. Prem Kalra
+        - title: Research Intern
           company: IIT Delhi
           company_url: 'https://home.iitd.ac.in/'
           company_logo: iitd
@@ -37,7 +37,7 @@ sections:
               • Demonstrated superior performance against existing methods (44% lower Chamfer Distance than state-of-the-art) in three real-world and simulated datasets, against five distance metrics with 32 times sparse LiDAR scans.
               \
               • Contributed to a deep generative model for adversarial point injections on LiDAR scans, demonstrating superior performance in degrading map quality without compromising scan integrity on KITTI and CARLA-64 datasets.
-        - title: Research Intern under Dr. Thiago Alves E. Oliveira
+        - title: Research Intern
           company: Lakehead University
           company_url: 'https://www.lakeheadu.ca/'
           company_logo: lakehead
