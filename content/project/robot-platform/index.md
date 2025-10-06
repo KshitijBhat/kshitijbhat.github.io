@@ -19,14 +19,14 @@ links:
     icon_pack: fab
     name: Code
     url: 'https://github.com/KshitijBhat/robot-4wsd' 
-  - icon: slides
+  - icon: person-chalkboard
     icon_pack: fas
     name: Slides
-    url: 'content/project/robot-platform/Presentation_Robot_4wsd.pdf'
+    url: 'https://github.com/KshitijBhat/kshitijbhat.github.io/blob/main/content/project/robot-platform/Presentation_Robot_4wsd.pdf'
   - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: 'content/project/bell-pepper/4WS-Robot.pdf'
+    url: 'https://github.com/KshitijBhat/kshitijbhat.github.io/blob/main/content/project/robot-platform/4WS-Robot.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''

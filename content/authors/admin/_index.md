@@ -83,9 +83,9 @@ highlight_name: true
 
 I'm a second-year MS student in Robotic Systems Development at the Robotics Institute, Carnegie Mellon University. 
 
-{style="color: #1565C0;"}
-I am actively seeking full-time opportunities in Robotics and Artificial Intelligence, with availability starting May 2026.
-{style="text-align: justify;"}
+
+I am actively seeking full-time opportunities in CV/ML and Robotics, with availability starting May 2026. <span style="color: blue">I am actively seeking full-time opportunities in CV/ML and Robotics, with availability starting May 2026.</span>
+
 
 I can be reached at kmadhavb@cs.cmu.edu
 

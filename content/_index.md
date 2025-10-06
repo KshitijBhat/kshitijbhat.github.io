@@ -50,15 +50,6 @@ sections:
               • Demonstrated superior performance against existing methods (44% lower Chamfer Distance than state-of-the-art) in three real-world and simulated datasets, against five distance metrics with 32 times sparse LiDAR scans.
               \
               • Contributed to an adversarial deep generative model for point injections on LiDAR scans, demonstrating superior performance in degrading map quality without compromising scan integrity on KITTI and CARLA-64 datasets.
-          links:
-            - icon: globe
-              icon_pack: fas
-              name: Website
-              url: https://kshitijbhat.github.io/glidr/
-            - icon: github
-              icon_pack: fab
-              name: Github
-              url: https://github.com/KshitijBhat/GLiDR-CVPR24
           
         - title: Research Intern
           company: Lakehead University
@@ -73,11 +64,6 @@ sections:
               • Developed C firmware for Raspberry Pi Pico microcontrollers, and integrated PID control to actuators and enabling joint state data collection and velocity feedback, enhancing navigational accuracy in unstructured environments.
               \
               •  Created hardware-agnostic C++ software to interface PID angle and velocity controllers using the ROS Control framework via serial communication, leading to general middleware suitable to any 4WS robot platform.
-          links:
-            - icon: github
-              icon_pack: fab
-              name: Github
-              url: https://github.com/KshitijBhat/robot-4wsd
 
         - title: Summer Intern, Autonomy Software
           company: Ati Motors
