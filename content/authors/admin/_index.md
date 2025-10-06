@@ -81,7 +81,11 @@ email: ''
 highlight_name: true
 ---
 
-I'm a first-year MS student in Robotic Systems Development at the Robotics Institute, Carnegie Mellon University. 
+I'm a second-year MS student in Robotic Systems Development at the Robotics Institute, Carnegie Mellon University. 
+
+{style="color: #1565C0;"}
+I am actively seeking full-time opportunities in Robotics and Artificial Intelligence, with availability starting May 2026.
+{style="text-align: justify;"}
 
 I can be reached at kmadhavb@cs.cmu.edu
 

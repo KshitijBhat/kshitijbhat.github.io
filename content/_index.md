@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern
+        - title: Research Collaborator
           company: IIT Delhi
           company_url: 'https://home.iitd.ac.in/'
           company_logo: iitd
@@ -65,17 +65,17 @@ sections:
               •  Shaped a post-processing routine for raw point cloud and IMU data in Rosbags for easy integration and validation of state-of-the-art 3D-LiDAR-based SLAM algorithms on real-world datasets of warehouses and shop floors.
     design:
       columns: '2'
-  # - block: collection
-  #   content:
-  #     title: Projects
-  #     text: 
-  #     filters:
-  #       folders:
-  #         - project
-  #   design:
-  #     view: article-grid
-  #     fill_image: false
-  #     columns: 3
+  - block: collection
+    content:
+      title: Projects
+      text: 
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: collection
     id: featured-publications
     content:
