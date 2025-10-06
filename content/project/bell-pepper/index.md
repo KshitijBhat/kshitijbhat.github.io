@@ -8,17 +8,26 @@ tags:
   - ROS 2
 date: '2024-09-01T00:00:00Z'
 
-external_link: 'https://mrsdprojects.ri.cmu.edu/2025teame/'
+external_link: ''
 
 image:
   caption: Bell pepper harvesting with dual-arm robot
   focal_point: Smart
 
 links:
+  - icon: link
+    icon_pack: fas
+    name: Website
+    url: 'https://mrsdprojects.ri.cmu.edu/2025teame/'
   - icon: github
     icon_pack: fab
     name: Code
     url: 'https://github.com/VADER-CMU/pose_estimation'
+  - icon: file-pdf
+    icon_pack: fas
+    name: Report
+    url: 'https://drive.google.com/file/d/13HHAtTkEA-0Le_PG3zKhqVYsxyaMJ4Kg/view'
+  
 url_code: ''
 url_pdf: ''
 url_slides: ''
