@@ -73,6 +73,12 @@ sections:
               • Developed C firmware for Raspberry Pi Pico microcontrollers, and integrated PID control to actuators and enabling joint state data collection and velocity feedback, enhancing navigational accuracy in unstructured environments.
               \
               •  Created hardware-agnostic C++ software to interface PID angle and velocity controllers using the ROS Control framework via serial communication, leading to general middleware suitable to any 4WS robot platform.
+          links:
+            - icon: github
+              icon_pack: fab
+              name: Github
+              url: https://github.com/KshitijBhat/robot-4wsd
+
         - title: Summer Intern, Autonomy Software
           company: Ati Motors
           company_url: 'https://atimotors.com/'
