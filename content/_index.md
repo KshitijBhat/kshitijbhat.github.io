@@ -32,14 +32,14 @@ sections:
           date_start: '2026-06-01'
           date_end: ''
           description: |2-
-              • Design and implement high-performance evaluation frameworks for perception and tracking modules — onboard and offboard.
+              • Design and implement high-performance evaluation frameworks for perception and tracking modules, both onboard and offboard.
               \
               • Build scalable tools and pipelines to measure accuracy, robustness, and reliability across large-scale datasets and real-world fleet data.
         - title: Computer Vision and Robotics Intern
           company: Bloomfield Robotics, Inc.
           company_url: 'https://bloomfield.ai/'
           company_logo: bloomfield
-          location: Pittsburgh, PA, USA
+          location: Pittsburgh, PA
           date_start: '2025-05-12'
           date_end: '2025-08-22'
           description: |2-
