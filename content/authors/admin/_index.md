@@ -81,12 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-I'm a second-year MS student in Robotic Systems Development at the Robotics Institute, Carnegie Mellon University. 
+I'm a Perception System Eval Engineer at [Rivian](https://www.rivian.com).
 
-
-<span style="color: #1565c0">I am actively exploring full-time opportunities in CV/ML and Robotics, with availability starting May 2026.</span>
-
-
-I can be reached at kmadhavb@cs.cmu.edu
+I can be reached at kshitijmbhat@gmail.com
 
 {style="text-align: justify;"}
