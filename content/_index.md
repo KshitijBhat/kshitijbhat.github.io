@@ -24,6 +24,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Perception Systems Eval Engineer II
+          company: Rivian
+          company_url: 'https://rivian.com/'
+          company_logo: rivian
+          location: Palo Alto, CA
+          date_start: '2026-06-01'
+          date_end: ''
+          description: |2-
+              • Design and implement high-performance evaluation frameworks for perception and tracking modules — onboard and offboard.
+              \
+              • Build scalable tools and pipelines to measure accuracy, robustness, and reliability across large-scale datasets and real-world fleet data.
         - title: Computer Vision and Robotics Intern
           company: Bloomfield Robotics, Inc.
           company_url: 'https://bloomfield.ai/'
