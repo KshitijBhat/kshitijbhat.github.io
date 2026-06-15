@@ -17,12 +17,12 @@ last_name: Madhav Bhat
 superuser: true
 
 # Role/position/tagline
-role: MS Robotic Systems Development (MRSD) Student
+role: Perception Systems Eval Engineer II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Robotics Institute, CMU
-    url: https://www.ri.cmu.edu/
+  - name: Rivian
+    url: https://www.rivian.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Robotics
